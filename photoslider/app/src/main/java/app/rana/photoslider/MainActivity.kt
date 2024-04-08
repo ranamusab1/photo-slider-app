@@ -1,3 +1,5 @@
+package app.rana.photoslider
+
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
